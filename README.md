@@ -21,5 +21,5 @@ Collaboration is not allowed, and each student should submit their unique work
 
 ## submitted
 
-he lab is submitted through GitHub
+lab is submitted through GitHub
 
